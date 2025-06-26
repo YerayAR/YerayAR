@@ -66,9 +66,6 @@ Soy Ingeniero Informático por la UOC, especializado en la automatización de si
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerayar&theme=tokyonight&layout=compact" width="380" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="60%" alt="Contribution Snake"/>
-</p>
 
 ---
 
