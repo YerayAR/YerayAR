@@ -38,14 +38,14 @@ Soy Ingeniero Informático por la UOC, especializado en la automatización de si
 ## 📈 Áreas de Enfoque
 
 - **Back-end & Automatización** 🛠️  
-  - Python (FastAPI, Flask, Django) :contentReference[oaicite:3]{index=3}  
-  - Java (Spring Boot, JSF, Hibernate) :contentReference[oaicite:4]{index=4}  
+  - Python (FastAPI, Flask, Django) 
+  - Java (Spring Boot, JSF, Hibernate)
 
 - **Desarrollo Web & Front-end** 📱  
-  - JavaScript, React, HTML5, CSS3, Leaflet :contentReference[oaicite:5]{index=5}  
+  - JavaScript, React, HTML5, CSS3, Leaflet 
 
 - **Bases de Datos & DevOps** 🔧  
-  - PostgreSQL, Docker, Nginx, Firebase / Firestore :contentReference[oaicite:6]{index=6}  
+  - PostgreSQL, Docker, Nginx, Firebase / Firestore 
 
 - **Móvil & Escritorio** 📲  
   - Android nativo, PyGame, Tkinter  
