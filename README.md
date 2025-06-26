@@ -58,9 +58,6 @@ Soy Ingeniero Informático por la UOC, especializado en la automatización de si
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yerayar&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="380" alt="GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerayar&theme=tokyonight&hide_border=false" width="380" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerayar&theme=tokyonight&layout=compact" width="380" alt="Top Languages"/>
