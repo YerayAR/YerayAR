@@ -30,7 +30,7 @@ Soy Ingeniero Informático por la UOC, especializado en la automatización de si
 
 <p align="center"><b>🧩 Stack Actual:</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,docker,nginx,postgres,firestore,android,powerbi,excel" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,java,spring,js,html,css,react,android,postgres,docker,nginx,leaflet,firebase,firestore,powerbi,excel" />
 </p>
 
 ---
@@ -38,20 +38,27 @@ Soy Ingeniero Informático por la UOC, especializado en la automatización de si
 ## 📈 Áreas de Enfoque
 
 - **Back-end & Automatización** 🛠️  
-  Desarrollo de scripts Python con OCR y bases de datos relacionales para optimizar KPIs y reducir tareas manuales.
+  - Python (FastAPI, Flask, Django) :contentReference[oaicite:3]{index=3}  
+  - Java (Spring Boot, JSF, Hibernate) :contentReference[oaicite:4]{index=4}  
 
-- **Desarrollo Web & Móvil** 📱  
-  Aplicaciones React, Next.js y Android nativo con Firebase y REST API.
+- **Desarrollo Web & Front-end** 📱  
+  - JavaScript, React, HTML5, CSS3, Leaflet :contentReference[oaicite:5]{index=5}  
+
+- **Bases de Datos & DevOps** 🔧  
+  - PostgreSQL, Docker, Nginx, Firebase / Firestore :contentReference[oaicite:6]{index=6}  
+
+- **Móvil & Escritorio** 📲  
+  - Android nativo, PyGame, Tkinter  
 
 - **Análisis & Visualización de Datos** 📊  
-  Dashboards en Power BI y reporting en Excel para toma de decisiones basada en datos.
+  - Power BI, Excel  
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yerayar&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="380" alt="GitHub Stats"/>
-  </p>
-  <p align="center">
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerayar&theme=tokyonight&hide_border=false" width="380" alt="GitHub Streak"/>
 </p>
 
