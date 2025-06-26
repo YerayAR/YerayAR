@@ -30,7 +30,7 @@ Soy Ingeniero Informático por la UOC, especializado en la automatización de si
 
 <p align="center"><b>🧩 Stack Actual:</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,java,spring,js,html,css,react,postgres,docker,nginx,leaflet,firebase />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,java,spring,js,html,css,react,android,postgres,docker,nginx" />
 </p>
 
 ---
