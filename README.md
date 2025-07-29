@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/yerayalonso/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yeray.alonso.reyes@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://neon-bytes.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Newsletter-NeonBytes-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="NeonBytes Newsletter"/>
   </a>
   <a href="https://github.com/yerayar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-yerayar-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
