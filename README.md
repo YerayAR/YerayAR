@@ -1,5 +1,5 @@
 <h1 align="center">Yeray Alonso Reyes 👋</h1>
-<h3 align="center">Ingeniero Informático | Automatización & Desarrollo Web 🚀</h3>
+<h3 align="center"> Computer Engineer | Automation and Web Development 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Ingeniero+Inform%C3%A1tico;Automatizaci%C3%B3n+de+Procesos;Desarrollo+Web+&+M%C3%B3vil;Aprendizaje+Continuo;Innovaci%C3%B3n+Tecnol%C3%B3gica" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 ### 💡 Sobre mí
 
 <p align="justify">
-Soy Ingeniero Informático por la UOC, especializado en la automatización de sistemas empresariales y el desarrollo de soluciones web y móviles. Me enfoco en alinear la tecnología con los objetivos estratégicos del negocio, optimizar flujos de trabajo y ofrecer resultados medibles. Mi actitud proactiva y mi capacidad de aprendizaje continuo me permiten adaptarme rápidamente a nuevos retos y herramientas.
+I hold a degree in Computer Engineering from the UOC, specializing in business systems automation and the development of web and mobile solutions. I focus on aligning technology with strategic business objectives, optimizing workflows, and delivering measurable results. My proactive attitude and capacity for continuous learning allow me to quickly adapt to new challenges and tools.
 </p>
 
 <p align="center"><b>🧩 Stack Actual:</b></p>
