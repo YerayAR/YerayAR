@@ -23,20 +23,20 @@
 
 ---
 
-### 💡 Sobre mí
+### 💡 About me
 
 <p align="justify">
 I hold a degree in Computer Engineering from the UOC, specializing in business systems automation and the development of web and mobile solutions. I focus on aligning technology with strategic business objectives, optimizing workflows, and delivering measurable results. My proactive attitude and capacity for continuous learning allow me to quickly adapt to new challenges and tools.
 </p>
 
-<p align="center"><b>🧩 Stack Actual:</b></p>
+<p align="center"><b>🧩 Actual Stack:</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,java,spring,js,html,css,react,postgres,docker,nginx" />
 </p>
 
 ---
 
-## 📈 Áreas de Enfoque
+## 📈 Focus Areas
 
 - **Backend & Automation** 🛠️  
   - Python (FastAPI, Flask, Django) 
