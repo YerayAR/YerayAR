@@ -38,20 +38,20 @@ I hold a degree in Computer Engineering from the UOC, specializing in business s
 
 ## 📈 Áreas de Enfoque
 
-- **Back-end & Automatización** 🛠️  
+- **Backend & Automation** 🛠️  
   - Python (FastAPI, Flask, Django) 
   - Java (Spring Boot, JSF, Hibernate)
 
-- **Desarrollo Web & Front-end** 📱  
+- **Web Development & Frontend** 📱  
   - JavaScript, React, HTML5, CSS3, Leaflet 
 
-- **Bases de Datos & DevOps** 🔧  
+- **DB & DevOps** 🔧  
   - PostgreSQL, Docker, Nginx, Firebase / Firestore 
 
-- **Móvil & Escritorio** 📲  
+- **Mobile & desktop** 📲  
   - Android nativo, PyGame, Tkinter  
 
-- **Análisis & Visualización de Datos** 📊  
+- **Data Analysis and Visualization** 📊  
   - Power BI, Excel  
 
 ---
@@ -67,7 +67,7 @@ I hold a degree in Computer Engineering from the UOC, specializing in business s
 
 ---
 
-## 🏆 Trofeos & Reconocimientos
+## 🏆 Trophies and Recognitions
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yerayar&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
@@ -75,7 +75,7 @@ I hold a degree in Computer Engineering from the UOC, specializing in business s
 
 ---
 
-### ✍️ Cita de Desarrollo
+### ✍️ Development Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
 </p>
