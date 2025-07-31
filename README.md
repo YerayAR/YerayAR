@@ -2,8 +2,9 @@
 <h3 align="center"> Computer Engineer | Automation and Web Development 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Ingeniero+Inform%C3%A1tico;Automatizaci%C3%B3n+de+Procesos;Desarrollo+Web+&+M%C3%B3vil;Aprendizaje+Continuo;Innovaci%C3%B3n+Tecnol%C3%B3gica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Engineer;Process+Automation;Web+%26+Mobile+Development;Software+Architecture+%7C+API+Integration;CI%2FCD+%7C+DevOps+%7C+Testing;Continuous+Learning+%7C+Tech+Innovation" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yerayalonso/" target="_blank">
