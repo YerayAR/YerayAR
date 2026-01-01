@@ -29,41 +29,54 @@
 I hold a degree in Computer Engineering from the UOC, specializing in business systems automation and the development of web and mobile solutions. I focus on aligning technology with strategic business objectives, optimizing workflows, and delivering measurable results. My proactive attitude and capacity for continuous learning allow me to quickly adapt to new challenges and tools.
 </p>
 
-<p align="center"><b>🧩 Actual Stack:</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,java,spring,js,html,css,react,postgres,docker,nginx" />
-</p>
+---
+
+## 🛠️ Tech Stack & Focus Areas
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" width="48" height="48" alt="Backend" />
+      <br>Backend & Automation
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate" width="48" height="48" alt="Java" />
+      <br>Java Ecosystem
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js,react,html,css" width="48" height="48" alt="Frontend" />
+      <br>Web Frontend
+    </td>
+        <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=android,flutter" width="48" height="48" alt="Mobile" />
+      <br>Mobile
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres,docker,nginx,firebase" width="48" height="48" alt="DevOps" />
+      <br>DB & DevOps
+    </td>
+  </tr>
+</table>
+
+### 🧩 Technologies in Detail
+
+| Category | Skills |
+| :--- | :--- |
+| **Backend & Automation** 🛠️ | Python (FastAPI, Flask, Django), Java (Spring Boot, JSF, Hibernate) |
+| **Web Development** 📱 | JavaScript, React, HTML5, CSS3, Leaflet |
+| **DB & DevOps** 🔧 | PostgreSQL, Docker, Nginx, Firebase / Firestore |
+| **Mobile & Desktop** 📲 | Android Native, PyGame, Tkinter |
+| **Data & Viz** 📊 | Power BI, Excel |
 
 ---
 
-## 📈 Focus Areas
+<div align="center">
 
-- **Backend & Automation** 🛠️  
-  - Python (FastAPI, Flask, Django) 
-  - Java (Spring Boot, JSF, Hibernate)
+| **GitHub Stats** | **Top Languages** |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=yerayar&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerayar&theme=tokyonight&layout=compact" width="400" /> |
 
-- **Web Development & Frontend** 📱  
-  - JavaScript, React, HTML5, CSS3, Leaflet 
-
-- **DB & DevOps** 🔧  
-  - PostgreSQL, Docker, Nginx, Firebase / Firestore 
-
-- **Mobile & desktop** 📲  
-  - Android nativo, PyGame, Tkinter  
-
-- **Data Analysis and Visualization** 📊  
-  - Power BI, Excel  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerayar&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="380" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerayar&theme=tokyonight&layout=compact" width="380" alt="Top Languages"/>
-</p>
-
+</div>
 
 ---
 
