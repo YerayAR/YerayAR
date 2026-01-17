@@ -81,29 +81,5 @@ I enjoy turning operational needs into reliable software: clean architecture, me
 
 ---
 
-## GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yerayar&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" width="420" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerayar&theme=tokyonight&layout=compact" width="360" alt="Top Languages" />
-
-</div>
-
-<details>
-  <summary><b>Trophies</b></summary>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yerayar&theme=gruvbox&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies"/>
-  </div>
-</details>
-
-<details>
-  <summary><b>Dev quote</b></summary>
-  <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
-  </div>
-</details>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yerayar&icon=10&color=4" alt="Profile views" />
-</div>
