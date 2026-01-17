@@ -61,7 +61,6 @@ I enjoy turning operational needs into reliable software: clean architecture, me
 
 ## Featured Work
 
-> Add your 3–5 most representative projects here. This section is the one most recruiters scan first.
 
 | Project | What it solves | Stack |
 | --- | --- | --- |
@@ -69,7 +68,6 @@ I enjoy turning operational needs into reliable software: clean architecture, me
 | **Invoice OCR Pipeline** | OCR → structured JSON/Excel, totals validation, batch processing | Python, OCR, Pandas |
 | **Catalog PDF Generator** | Generates styled catalogs with pagination/grouping | Python, ReportLab |
 
-*(Replace with your real repo links and a 1-line impact metric if possible: “reduced manual work by X%”, “processed N invoices/day”, etc.)*
 
 ---
 
